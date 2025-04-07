@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hospito-dashboard/static/css/main.70bf738f.css",
+    "main.js": "/hospito-dashboard/static/js/main.d718a1e0.js",
+    "static/js/136.f7166a75.chunk.js": "/hospito-dashboard/static/js/136.f7166a75.chunk.js",
+    "static/css/446.7f42d8d4.chunk.css": "/hospito-dashboard/static/css/446.7f42d8d4.chunk.css",
+    "static/js/446.1f76608c.chunk.js": "/hospito-dashboard/static/js/446.1f76608c.chunk.js",
+    "static/js/3.b158e36d.chunk.js": "/hospito-dashboard/static/js/3.b158e36d.chunk.js",
+    "static/js/548.1aaa79c8.chunk.js": "/hospito-dashboard/static/js/548.1aaa79c8.chunk.js",
+    "static/css/115.fa7b36fb.chunk.css": "/hospito-dashboard/static/css/115.fa7b36fb.chunk.css",
+    "static/js/115.4088416a.chunk.js": "/hospito-dashboard/static/js/115.4088416a.chunk.js",
+    "static/js/125.8cfdda85.chunk.js": "/hospito-dashboard/static/js/125.8cfdda85.chunk.js",
+    "static/js/952.072a4a41.chunk.js": "/hospito-dashboard/static/js/952.072a4a41.chunk.js",
+    "static/js/127.df0a0e17.chunk.js": "/hospito-dashboard/static/js/127.df0a0e17.chunk.js",
+    "static/js/430.814166cf.chunk.js": "/hospito-dashboard/static/js/430.814166cf.chunk.js",
+    "static/js/232.6494028c.chunk.js": "/hospito-dashboard/static/js/232.6494028c.chunk.js",
+    "static/js/227.1609edae.chunk.js": "/hospito-dashboard/static/js/227.1609edae.chunk.js",
+    "static/js/463.0e349567.chunk.js": "/hospito-dashboard/static/js/463.0e349567.chunk.js",
+    "static/js/606.b95d6692.chunk.js": "/hospito-dashboard/static/js/606.b95d6692.chunk.js",
+    "static/js/9.11e02db4.chunk.js": "/hospito-dashboard/static/js/9.11e02db4.chunk.js",
+    "static/js/843.7005ab9f.chunk.js": "/hospito-dashboard/static/js/843.7005ab9f.chunk.js",
+    "static/media/5856.jpg": "/hospito-dashboard/static/media/5856.53541092696eeb3272ae.jpg",
+    "static/media/nodata.png": "/hospito-dashboard/static/media/nodata.300e07612dd5187cc696.png",
+    "static/media/logo.svg": "/hospito-dashboard/static/media/logo.f5ffc920021d3143f618218af5a642d8.svg",
+    "static/media/social-google.svg": "/hospito-dashboard/static/media/social-google.a57081bd95c2519caad91216a8dba3ad.svg",
+    "index.html": "/hospito-dashboard/index.html",
+    "static/media/wave.svg": "/hospito-dashboard/static/media/wave.cc01b3ec66f47900586b73a905b4fdc7.svg"
+  },
+  "entrypoints": [
+    "static/css/main.70bf738f.css",
+    "static/js/main.d718a1e0.js"
+  ]
+}
