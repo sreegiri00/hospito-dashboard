@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hospito-dashboard/static/css/main.70bf738f.css",
-    "main.js": "/hospito-dashboard/static/js/main.d718a1e0.js",
+    "main.css": "/hospito-dashboard/static/css/main.522bf75a.css",
+    "main.js": "/hospito-dashboard/static/js/main.d6662f45.js",
     "static/js/136.f7166a75.chunk.js": "/hospito-dashboard/static/js/136.f7166a75.chunk.js",
     "static/css/446.7f42d8d4.chunk.css": "/hospito-dashboard/static/css/446.7f42d8d4.chunk.css",
     "static/js/446.1f76608c.chunk.js": "/hospito-dashboard/static/js/446.1f76608c.chunk.js",
@@ -27,7 +27,7 @@
     "static/media/wave.svg": "/hospito-dashboard/static/media/wave.cc01b3ec66f47900586b73a905b4fdc7.svg"
   },
   "entrypoints": [
-    "static/css/main.70bf738f.css",
-    "static/js/main.d718a1e0.js"
+    "static/css/main.522bf75a.css",
+    "static/js/main.d6662f45.js"
   ]
 }
