@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/hospito-dashboard/static/css/main.522bf75a.css",
-    "main.js": "/hospito-dashboard/static/js/main.d6662f45.js",
-    "static/js/136.f7166a75.chunk.js": "/hospito-dashboard/static/js/136.f7166a75.chunk.js",
+    "main.js": "/hospito-dashboard/static/js/main.e0b007c6.js",
+    "static/js/136.cf5167c0.chunk.js": "/hospito-dashboard/static/js/136.cf5167c0.chunk.js",
     "static/css/446.7f42d8d4.chunk.css": "/hospito-dashboard/static/css/446.7f42d8d4.chunk.css",
-    "static/js/446.1f76608c.chunk.js": "/hospito-dashboard/static/js/446.1f76608c.chunk.js",
-    "static/js/3.b158e36d.chunk.js": "/hospito-dashboard/static/js/3.b158e36d.chunk.js",
-    "static/js/548.1aaa79c8.chunk.js": "/hospito-dashboard/static/js/548.1aaa79c8.chunk.js",
+    "static/js/446.97eb2344.chunk.js": "/hospito-dashboard/static/js/446.97eb2344.chunk.js",
+    "static/js/3.bb308dfe.chunk.js": "/hospito-dashboard/static/js/3.bb308dfe.chunk.js",
+    "static/js/548.f82c2110.chunk.js": "/hospito-dashboard/static/js/548.f82c2110.chunk.js",
     "static/css/115.fa7b36fb.chunk.css": "/hospito-dashboard/static/css/115.fa7b36fb.chunk.css",
-    "static/js/115.4088416a.chunk.js": "/hospito-dashboard/static/js/115.4088416a.chunk.js",
-    "static/js/125.8cfdda85.chunk.js": "/hospito-dashboard/static/js/125.8cfdda85.chunk.js",
-    "static/js/952.072a4a41.chunk.js": "/hospito-dashboard/static/js/952.072a4a41.chunk.js",
-    "static/js/127.df0a0e17.chunk.js": "/hospito-dashboard/static/js/127.df0a0e17.chunk.js",
-    "static/js/430.814166cf.chunk.js": "/hospito-dashboard/static/js/430.814166cf.chunk.js",
-    "static/js/232.6494028c.chunk.js": "/hospito-dashboard/static/js/232.6494028c.chunk.js",
-    "static/js/227.1609edae.chunk.js": "/hospito-dashboard/static/js/227.1609edae.chunk.js",
-    "static/js/463.0e349567.chunk.js": "/hospito-dashboard/static/js/463.0e349567.chunk.js",
-    "static/js/606.b95d6692.chunk.js": "/hospito-dashboard/static/js/606.b95d6692.chunk.js",
-    "static/js/9.11e02db4.chunk.js": "/hospito-dashboard/static/js/9.11e02db4.chunk.js",
-    "static/js/843.7005ab9f.chunk.js": "/hospito-dashboard/static/js/843.7005ab9f.chunk.js",
+    "static/js/115.0578941c.chunk.js": "/hospito-dashboard/static/js/115.0578941c.chunk.js",
+    "static/js/125.474b71d5.chunk.js": "/hospito-dashboard/static/js/125.474b71d5.chunk.js",
+    "static/js/952.efa09b3f.chunk.js": "/hospito-dashboard/static/js/952.efa09b3f.chunk.js",
+    "static/js/127.e3a3d4f3.chunk.js": "/hospito-dashboard/static/js/127.e3a3d4f3.chunk.js",
+    "static/js/430.6406403e.chunk.js": "/hospito-dashboard/static/js/430.6406403e.chunk.js",
+    "static/js/232.ce12aef3.chunk.js": "/hospito-dashboard/static/js/232.ce12aef3.chunk.js",
+    "static/js/227.2bd7f497.chunk.js": "/hospito-dashboard/static/js/227.2bd7f497.chunk.js",
+    "static/js/463.ac152392.chunk.js": "/hospito-dashboard/static/js/463.ac152392.chunk.js",
+    "static/js/606.463be9a0.chunk.js": "/hospito-dashboard/static/js/606.463be9a0.chunk.js",
+    "static/js/9.4e6559b2.chunk.js": "/hospito-dashboard/static/js/9.4e6559b2.chunk.js",
+    "static/js/843.d6f20a25.chunk.js": "/hospito-dashboard/static/js/843.d6f20a25.chunk.js",
     "static/media/5856.jpg": "/hospito-dashboard/static/media/5856.53541092696eeb3272ae.jpg",
     "static/media/nodata.png": "/hospito-dashboard/static/media/nodata.300e07612dd5187cc696.png",
     "static/media/logo.svg": "/hospito-dashboard/static/media/logo.f5ffc920021d3143f618218af5a642d8.svg",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.522bf75a.css",
-    "static/js/main.d6662f45.js"
+    "static/js/main.e0b007c6.js"
   ]
 }
